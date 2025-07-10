@@ -94,7 +94,7 @@
         "use-debounce": "^10.0.4",
         "uuid": "^11.0.5",
         "zeego": "^2.0.4",
-        "zod": "^3.24.1",
+        "zod": "^4.0.0",
       },
       "devDependencies": {
         "@babel/core": "^7.26.8",
@@ -2281,7 +2281,7 @@
 
     "zeego": ["zeego@2.0.4", "", { "dependencies": { "@radix-ui/react-context-menu": "^2.0.1", "@radix-ui/react-dropdown-menu": "^2.0.1", "sf-symbols-typescript": "^2.0.0" }, "peerDependencies": { "@react-native-menu/menu": "*", "react": "*", "react-native": "*", "react-native-ios-context-menu": "~2.5.1" } }, "sha512-mkKfUJmgcSGCTqWXW7ccqap8d8z6guQoLF5/mWlH17Jckd0BaFLVZ74y/uWvfBGaC9OawYVt/1MchPnQ8ieSxg=="],
 
-    "zod": ["zod@3.24.2", "", {}, "sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ=="],
+    "zod": ["zod@4.0.3", "", {}, "sha512-V78FonTAxtGAyF2xR75x0YoW8uKXdQiusoPtzbT07vH3mZiGdTQN6INuivHyYT6M2V2YRFDEKIF4ylTJh54EXg=="],
 
     "@babel/helper-module-transforms/@babel/helper-module-imports": ["@babel/helper-module-imports@7.25.9", "", { "dependencies": { "@babel/traverse": "^7.25.9", "@babel/types": "^7.25.9" } }, "sha512-tnUA4RsrmflIM6W6RFTLFSXITtl0wKjgpnLgXyowocVPrbYrLUXSBXDgTs8BlbmIzIdlBySRQjINYs2BAkiLtw=="],
 
